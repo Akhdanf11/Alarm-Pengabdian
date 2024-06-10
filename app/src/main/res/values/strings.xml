@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alarm KOM A USU</string>
+    <string name="judul">Alarm</string>
+    <string name="prodi">Ilmu Komputer</string>
+    <string name="Kom">KOM A</string>
+    <string name="fakultas">Fakultas Ilmu Komputer dan Teknologi Informasi</string>
+    <string name="kampus">Universitas Sumatera Utara</string>
+    <string name="matkul">Teknik Instalasi Komputer</string>
+</resources>
